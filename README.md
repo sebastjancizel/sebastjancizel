@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About me
-I'm Sebastjan and I'm a senior ML research scientist working in AI based video compression. I'm currently working at [Deep Render](https://deeprender.ai/) where I'm co-lead the ML Engineering team, that is responsible for optimizing and improving the performance of the production video model. I'm specifically interested in techniques that can be used to improve the performance of the model, such as quantization, distillation, model compression.
+As a research scientist turned head of engineering, I have made foundational contributions to AI-driven video compression at Deep Render. I joined the company to work on the core video compression model, where I played a pivotal role in shaping its architecture and maintaining the codebase. My work involved engaging with cutting-edge research, combining techniques from generative AI and neural network inference acceleration for edge deployment. In my current role as head of engineering, I manage a team of 20 engineers responsible for directing the training, deployment, and optimization of AI-based video codecs on edge platforms and consumer devices, ensuring our technology can operate efficiently in power-constrained environments while delivering state of the art compression performance.
 
 Before my current position, I obtained a PhD degree in Mathematics at the University of Oxford where I studied higher dimensional geometry of a specific class of manifolds that commonly appear in string theory.
 
@@ -11,7 +11,6 @@ Before my current position, I obtained a PhD degree in Mathematics at the Univer
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Tools
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
